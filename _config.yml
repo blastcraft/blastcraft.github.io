@@ -1,3 +1,4 @@
 name: blastcraft.net
 markdown: redcarpet
 pygments: true
+encoding: UTF-8

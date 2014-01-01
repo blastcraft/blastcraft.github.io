@@ -23,7 +23,9 @@ h1, h2, h3, h4, h5, h6 {
   font-size: 100%; }
 
 h1 { margin-bottom: 1em; }
-p { margin: 1em 0; }
+p { 
+ text-indent: 2em;
+ margin: 1em 0; }
 
 a         { color: #00a; }
 a:hover   { color: #000; }
@@ -43,6 +45,9 @@ a:visited { color: #a0a; }
   line-height: 1.75em;
 }
 
+.posts p {
+ text-indent: 2em;
+}
 .posts span {
   color: #aaa;
   font-family: Monaco, "Courier New", monospace;

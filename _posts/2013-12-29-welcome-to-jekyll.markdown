@@ -1,14 +1,12 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Обоснование параметров взрывобезопасности при прведении горных выработок в условиях какой-то хрени"
 date:   2013-12-29 17:10:27
-categories: update
+categories: safety
 ---
 
-<p  class="paragraph">
 You'll find this post in your `_posts` directory - edit this post and re-build (or run with the `-w` switch) to see your changes!
 To add new posts, simply add a file in the `_posts` directory that follows the convention: YYYY-MM-DD-name-of-post.ext.
-</p>
 <p align="right">
 [Скачать]({{ site.url }}/articles/mydoc.pdf)
 </p>

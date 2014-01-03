@@ -20,7 +20,7 @@
           <div class="header">
             <!-- <h1 class="title"><a href="/">{{ site.name }}</a></h1>
             <a class="extra" href="/">home</a> -->
-            <a href="index.html">
+            <a href="/index.html">
 	    <img src="/img/logo.png">
 	    </a>
 	    <p></p>
@@ -30,61 +30,73 @@
 
 <!-- button 1-->			
 	<div class="btn-group">
-  		<button type="button" class="btn btn-primary">Оборудование</button>
   		<button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
-    			<span class="caret"></span>
+    		Оборудование
+			<span class="caret"></span>
     			<span class="sr-only">Toggle Dropdown</span>
   		</button>
   		<ul class="dropdown-menu" role="menu">
-    			<li><a href="#">Измеритель интервалов времени</a></li>
+    			<li><a href="/hardware/iiv.html">Измеритель интервалов времени</a></li>
   		</ul>
 	</div>
 <!-- button 2-->			
 	<div class="btn-group">
-  		<button type="button" class="btn btn-success">Программы</button>
   		<button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown">
-    			<span class="caret"></span>
+    		Программы
+			<span class="caret"></span>
     			<span class="sr-only">Toggle Dropdown</span>
   		</button>
   		<ul class="dropdown-menu" role="menu">
-    			<li><a href="#">Состав продуктов взрыва</a></li>
-    			<li><a href="#">Параметры детонации ВВ</a></li>
+    			<li><a href="/software/sostav.html">Состав продуктов взрыва</a></li>
+    			<li><a href="/software/detonation.html">Параметры детонации ВВ</a></li>
   		</ul>
 	</div>
 <!-- button 3-->			
-	<a href="articles.html">
-	<button type="button" class="btn btn-info">Статьи</button>
-	</a>
-<!--
 	<div class="btn-group">
-  		<button type="button" class="btn btn-info">Статьи</button>
-  		<button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown">
-    			<span class="caret"></span>
+		<button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown">
+    		Статьи
+			<span class="caret"></span>
     			<span class="sr-only">Toggle Dropdown</span>
   		</button>
   		<ul class="dropdown-menu" role="menu">
-    			<li><a href="articles.html">Action</a></li>
-    			<li><a href="#">Another action</a></li>
-    			<li><a href="#">Something else here</a></li>
-    			<li class="divider"></li>
-    			<li><a href="#">Separated link</a></li>
+    			<li><a href="/articles/safety.html">Безопасность ВР</a></li>
+    			<li><a href="/articles/detonation.html">Детонационные процессы</a></li>
+    			<li><a href="/articles/destruction.html">Разрушение горных пород</a></li>
+    			<li><a href="/articles/recepies.html">Рецептура ВВ</a></li>
   		</ul>
 	</div>
--->
+<!-- button 4-->	
+	<a href="/library/library.html">
+	<button type="button" class="btn btn-warning">Библиотека</button></a>
+<!-- button 5-->	
+	<div class="btn-group">
+		<button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown">
+    		Авторы
+			<span class="caret"></span>
+    			<span class="sr-only">Toggle Dropdown</span>
+  		</button>
+  		<ul class="dropdown-menu" role="menu">
+    			<li><a href="/authors/kalyakin.html">Калякин С.А.</a></li>
+    			<li><a href="/authors/labinskiykn.html">Лабинский К.Н.</a></li>
+    			<li><a href="http://www.labinskiy.org.ua/" target="_blank">Лабинский Н.Н.</a></li>
+  		</ul>
+	</div>
+<!-- button 6-->	
+	<a href="/spd/spd.html">
+	<button type="button" class="btn btn-danger">СПД</button>
+	</a>
 
           {{ content }}
 
           <div class="footer">
             <div class="contact">
-                Your Name<br />
-                What You Are<br />
-                you@example.com
+                E-mail:<br />
             </div>
             <div class="contact">
-                <a href="https://github.com/yourusername">github.com/yourusername</a><br />
-                <a href="https://twitter.com/yourusername">twitter.com/yourusername</a><br />
+                <a href="mailto:support@blastcraft.net">support@blastcraft.net</a><br />
             </div>
           </div>
+	  <br />
         </div>
 		
 		<script src="https://code.jquery.com/jquery.js"></script>

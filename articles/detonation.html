@@ -1,0 +1,29 @@
+---
+layout: default
+title: BlastCraft.net
+---
+ 
+<div id="home">
+  <ul class="posts">
+    <br>
+    {% for post in site.posts %}
+    {% if post.categories contains 'detonation' %}
+      <li>
+        <!--
+	<span>{{ post.date | date_to_string }}</span> &raquo; 
+	
+	<a href="{{ post.url }}">
+	-->
+	<strong>
+	{{ post.title }}
+	</strong>
+	<!--
+	</a>
+	-->
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
+</div>
+

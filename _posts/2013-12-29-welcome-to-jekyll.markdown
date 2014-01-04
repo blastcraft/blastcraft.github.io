@@ -11,6 +11,8 @@ To add new posts, simply add a file in the `_posts` directory that follows the c
 <a href="/articles/mydoc.pdf">Скачать</a>
 </p>
 
+<!--more-->
+
 Jekyll also offers powerful support for code snippets:
 
 {% highlight ruby %}

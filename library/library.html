@@ -1,8 +1,29 @@
 ---
 layout: default
-title: index
+title: BlastCraft.net
 ---
-
+ 
 <div id="home">
-  <h1>hello net</h1>
+  <ul class="posts">
+    <br>
+    {% for post in site.posts %}
+    {% if post.categories contains 'library' %}
+      <li>
+        <!--
+	<span>{{ post.date | date_to_string }}</span> &raquo; 
+	
+	<a href="{{ post.url }}">
+	-->
+	<strong>
+	{{ post.title }}
+	</strong>
+	<!--
+	</a>
+	-->
+        <p>{{ post.excerpt }}</p>
+      </li>
+    {% endif %}
+    {% endfor %}
+  </ul>
 </div>
+

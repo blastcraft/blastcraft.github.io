@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Физика взрыва"
-date:   2014-01-04 10:10:10
+date:   2014-01-01 10:10:10
 categories: library
 ---
 
@@ -18,5 +18,5 @@ categories: library
 в промышленности, проблемы моделирования взрывных процессов, а также результаты 
 численного решения многих задач, связанных с взрывными процессами. 
 <p align="right">
-[Том 1]({{ site.url }}/files/FV1.djvu), [Том 2]({{ site.url }}/files/FV2.djvu)
+[Том 1]({{ site.url }}/files/library/FV1.djvu), [Том 2]({{ site.url }}/files/library/FV2.djvu)
 </p>

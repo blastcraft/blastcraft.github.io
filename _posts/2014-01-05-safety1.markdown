@@ -1,0 +1,11 @@
+---
+layout: post
+title:  "БЕЗОПАСНЫЕ ПАРАМЕТРЫ СОТРЯСАТЕЛЬНОГО ВЗРЫВАНИЯ ПРИ ПРОВЕДЕНИИ ГОРНЫХ ВЫРАБОТОК"
+date:   2014-01-05 10:10:10
+categories: safety
+---
+
+<strong>Песоцкий М.К., Калякин С.А., Песоцкий М.М.</strong>
+<p align="right">
+Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/safety1.pdf)
+</p>

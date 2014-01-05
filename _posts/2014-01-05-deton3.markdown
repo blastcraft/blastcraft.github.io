@@ -11,5 +11,5 @@ categories: detonation
 шпуровых зарядов. Установлено предельное число стыков между патронами ВВ, приводящее с вероятностью 
 99% к нарушению детонации.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/detonation3.pdf)
+Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton3.pdf)
 </p>

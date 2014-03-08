@@ -1,0 +1,114 @@
+<!DOCTYPE html>
+<html>
+    <head>
+	<link rel="shortcut icon" href="/img/favicon.ico" type="image/x-icon">
+
+        <meta charset="utf-8">
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+        <title>{{ page.title }}</title>
+        <meta name="viewport" content="width=device-width">
+
+        <!-- syntax highlighting CSS -->
+        <link rel="stylesheet" href="/css/syntax.css">
+
+        <!-- Custom CSS -->
+        <link rel="stylesheet" href="/css/main.css">
+        <link rel="stylesheet" href="/css/bootstrap.min.css">
+	
+	<script type='text/javascript' src='/js/jquery.js'></script>
+	<!--
+	<link rel='stylesheet' type='text/css' href='/css/stylesheet.css'/>
+        -->
+	<script type='text/javascript' src='/js/deton.js'></script>
+	
+    </head>
+    <body>
+
+        <div class="site">
+          <div class="header">
+            <!-- <h1 class="title"><a href="/">{{ site.name }}</a></h1>
+            <a class="extra" href="/">home</a> -->
+            <a href="/">
+	    <img src="/img/logo.png">
+	    </a>
+	    <p></p>
+          </div>
+			
+<!-- global menu -->	
+	<a href="/">
+	<button type="button" class="btn btn-default"><span class="glyphicon glyphicon-home"></span></button></a>
+<!-- button 1-->			
+	<div class="btn-group">
+  		<button type="button" class="btn btn-primary dropdown-toggle" data-toggle="dropdown">
+    		Оборудование
+			<span class="caret"></span>
+    			<span class="sr-only">Toggle Dropdown</span>
+  		</button>
+  		<ul class="dropdown-menu" role="menu">
+    			<li><a href="/hardware/iiv.html">Измеритель интервалов времени</a></li>
+  		</ul>
+	</div>
+<!-- button 2-->			
+	<div class="btn-group">
+  		<button type="button" class="btn btn-success dropdown-toggle" data-toggle="dropdown">
+    		Программы
+			<span class="caret"></span>
+    			<span class="sr-only">Toggle Dropdown</span>
+  		</button>
+  		<ul class="dropdown-menu" role="menu">
+    			<li><a href="/software/sostav.html">Состав продуктов взрыва</a></li>
+    			<li><a href="/software/detonation.html">Параметры детонации ВВ</a></li>
+  		</ul>
+	</div>
+<!-- button 3-->			
+	<div class="btn-group">
+		<button type="button" class="btn btn-info dropdown-toggle" data-toggle="dropdown">
+    		Статьи
+			<span class="caret"></span>
+    			<span class="sr-only">Toggle Dropdown</span>
+  		</button>
+  		<ul class="dropdown-menu" role="menu">
+    			<li><a href="/articles/safety.html">Безопасность ВР</a></li>
+    			<li><a href="/articles/detonation.html">Детонационные процессы</a></li>
+    			<li><a href="/articles/destruction.html">Разрушение горных пород</a></li>
+    			<li><a href="/articles/recepies.html">Рецептура ВВ</a></li>
+  		</ul>
+	</div>
+<!-- button 4-->	
+	<a href="/library/library.html">
+	<button type="button" class="btn btn-warning">Библиотека</button></a>
+<!-- button 5-->	
+	<div class="btn-group">
+		<button type="button" class="btn btn-danger dropdown-toggle" data-toggle="dropdown">
+    		Авторы
+			<span class="caret"></span>
+    			<span class="sr-only">Toggle Dropdown</span>
+  		</button>
+  		<ul class="dropdown-menu" role="menu">
+    			<li><a href="/authors/kalyakin.html">Калякин С.А.</a></li>
+    			<li><a href="/authors/labinskiykn.html">Лабинский К.Н.</a></li>
+    			<li><a href="http://www.labinskiy.org.ua/" target="_blank">Лабинский Н.Н.</a></li>
+  		</ul>
+	</div>
+<!-- button 6-->	
+	<a href="/spd/spd.html">
+	<button type="button" class="btn btn-default">СПД</button>
+	</a>
+
+          {{ content }}
+
+          <div class="footer">
+            <div class="contact">
+                E-mail:<br />
+            </div>
+            <div class="contact">
+                <a href="mailto:support@blastcraft.net">support@blastcraft.net</a><br />
+            </div>
+          </div>
+	  <br />
+        </div>
+
+		<script src="https://code.jquery.com/jquery.js"></script>
+		<script src="/js/bootstrap.min.js"></script>
+    </body>
+</html>

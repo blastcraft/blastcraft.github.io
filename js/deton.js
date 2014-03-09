@@ -1,6 +1,16 @@
 $(document).ready(function() {
+    $('form input').change(function() {
+        var v = parseFloat($(this).val());
+        if (isNaN(v)) {
+            $(this).addClass('highlighted');
+        } else {
+            $(this).removeClass('highlighted');
+        }
+    });
+    
     $('#messages').hide();
     $('button').click(function() {
+        $('#messages').hide();
         var Ro = $("input[name=Ro]").val();
         var C = $("input[name=C]").val();
         var H = $("input[name=H]").val();
@@ -10,13 +20,18 @@ $(document).ready(function() {
         var F = $("input[name=F]").val();
         var a = 0;
         var k = 0;
+        var calculation = $('form input.highlighted').length == 0;
+        
+        //Ro
         var ro = parseFloat(Ro);
         var c = parseFloat(C);
-        var h = parseFloat(H); 
-        var n = parseFloat(N); 
-        var o = parseFloat(O); 
-        var cl = parseFloat(Cl); 
-        var f = parseFloat(F); 
+        var h = parseFloat(H);
+        var n = parseFloat(N);
+        var o = parseFloat(O);
+        var cl = parseFloat(Cl);
+        var f = parseFloat(F);
+        //Calculation
+        if (calculation) {
         if ((cl === 0) && (f === 0)) {
             a=o/(2*c+h/2);
             if (a > 1) {
@@ -38,12 +53,12 @@ $(document).ready(function() {
             }
         }
         var nn = 0.90483224 + 1.9097131 * ro - 0.20668778 * Math.pow(ro,2) - 0.19601222 * Math.pow(ro,3);
-	nn += 0.050027134 * Math.pow(ro,4) - 0.003335511 * Math.pow(ro,5);
+	    nn += 0.050027134 * Math.pow(ro,4) - 0.003335511 * Math.pow(ro,5);
         var ch = Math.pow(2.71828,(nn * Math.log(ro))) * Math.pow(2.71828,((1 / nn) * Math.log(a * k)));
         ro *= 1000;
         var d = 249.0452 + 8636.2299 * ch - 5677.897 * Math.pow(ch,2) + 2195.3933 * Math.pow(ch,3);
         d += -506.38893 * Math.pow(ch,4) + 70.867064 * Math.pow(ch,5) - 5.8821718*Math.pow(ch,6);
-	d += 0.26587807 * Math.pow(ch,7) - 0.0050361302 * Math.pow(ch,8);
+        d += 0.26587807 * Math.pow(ch,7) - 0.0050361302 * Math.pow(ch,8);
         var pn = ro * d * d / (nn + 1);
         var qd = 3.464 * Math.sqrt(d);
         var Pyc = (nn*nn - 1) * d * d * ro * (1 + 6 / ((nn + 1) * (nn + 1) * (nn - 1) * (nn - 1))) / (nn * 11.998);
@@ -64,5 +79,6 @@ $(document).ready(function() {
         $('.pn_out').text(pn_out + " МПа");
         $('.Pyc_out').text(Pyc_out + " МПа");
         $('#messages').show();
+        }
     });
 });

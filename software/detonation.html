@@ -20,35 +20,35 @@ title: BlastCraft.net
             <table>
                 <tr>
                     <td>Введите плотность монокристалла, г/см3:</td>
-                    <td><input type="text" name="Ro" value="1.00" onkeypress='validate(event)'></td>
+                    <td id="ro" align="left"><input type="text" name="Ro" value="1.00" onkeypress='validate(event)'></td>
                 </tr>
                 <tr>
                     <td>Введите количество атомов углерода С:</td>
-                    <td><input type="number" name="C" value="0"></td>
+                    <td id="c" align="left"><input type="number" name="C" value="0"></td>
                 </tr>
                 <tr>
                     <td>Введите количество атомов водорода H:</td>
-                    <td><input type="number" name="H" value="0"></td>
+                    <td id="h" align="left"><input type="number" name="H" value="0"></td>
                 </tr>
                 <tr>
                     <td>Введите количество атомов азота N:</td>
-                    <td><input type="number" name="N" value="0"></td>
+                    <td id="n" align="left"><input type="number" name="N" value="0"></td>
                 </tr>
                 <tr>
                     <td>Введите количество атомов кислорода O:</td>
-                    <td><input type="number" name="O" value="0"></td>
+                    <td id="o" align="left"><input type="number" name="O" value="0"></td>
                 </tr>
                 <tr>
                     <td>Введите количество атомов хлора Cl:</td>
-                    <td><input type="number" name="Cl" value="0"></td>
+                    <td id="cl" align="left"><input type="number" name="Cl" value="0"></td>
                 </tr>
                 <tr>
                     <td>Введите количество атомов фтора F:</td>
-                    <td><input type="number" name="F" value="0"></td>
+                    <td id="f" align="left"><input type="number" name="F" value="0"></td>
                 </tr>
             </table>
         </form>
-            <p><button>Рассчитать!</button><br/></p>
+            <p><button id="button">Рассчитать!</button><br/></p>
         <div id="messages">
         <table>
                 <tr>
@@ -76,7 +76,7 @@ title: BlastCraft.net
                     </td>
                 </tr>
                 <tr>
-                    <td>Идеальная скорость детонации при плотности монокристалла Dmax:
+                    <td>Идеальная скорость детонации Dmax:
                     </td>
                     <td class="d_out">
                     </td>

@@ -9,7 +9,7 @@ $(document).ready(function() {
     });
     
     $('#messages').hide();
-    $('button').click(function() {
+    $('#button').click(function() {
         $('#messages').hide();
         var Ro = $("input[name=Ro]").val();
         var C = $("input[name=C]").val();

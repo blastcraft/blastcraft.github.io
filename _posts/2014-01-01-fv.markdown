@@ -2,7 +2,7 @@
 layout: post
 title:  "Физика взрыва"
 date:   2014-01-01 10:10:10
-categories: library
+categories: monograph
 ---
 
 Физика взрыва / Под ред. Л. П. Орленко. — Изд. 3-е, испр. — В 2 т. — М.: 

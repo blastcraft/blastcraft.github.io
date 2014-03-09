@@ -30,7 +30,10 @@ $(document).ready(function() {
         var o = parseFloat(O);
         var cl = parseFloat(Cl);
         var f = parseFloat(F);
-        //Calculation
+        if (c === 0) { calculation = false; $("input[name=C]").addClass('highlighted'); };
+        if (h === 0) { calculation = false; $("input[name=H]").addClass('highlighted'); };
+        if (o === 0) { calculation = false; $("input[name=O]").addClass('highlighted'); };
+	//Calculation
         if (calculation) {
         if ((cl === 0) && (f === 0)) {
             a=o/(2*c+h/2);

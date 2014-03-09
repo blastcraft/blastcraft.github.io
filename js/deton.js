@@ -30,9 +30,13 @@ $(document).ready(function() {
         var o = parseFloat(O);
         var cl = parseFloat(Cl);
         var f = parseFloat(F);
-        if (c === 0) { calculation = false; $("input[name=C]").addClass('highlighted'); };
-        if (h === 0) { calculation = false; $("input[name=H]").addClass('highlighted'); };
-        if (o === 0) { calculation = false; $("input[name=O]").addClass('highlighted'); };
+	if (ro <= 0) { calculation = false; $("input[name=Ro]").addClass('highlighted'); };
+        if (c <= 0) { calculation = false; $("input[name=C]").addClass('highlighted'); };
+        if (h <= 0) { calculation = false; $("input[name=H]").addClass('highlighted'); };
+	if (n < 0) { calculation = false; $("input[name=N]").addClass('highlighted'); };
+        if (o <= 0) { calculation = false; $("input[name=O]").addClass('highlighted'); };
+	if (cl < 0) { calculation = false; $("input[name=Cl]").addClass('highlighted'); };
+        if (f < 0) { calculation = false; $("input[name=F]").addClass('highlighted'); };
 	//Calculation
         if (calculation) {
         if ((cl === 0) && (f === 0)) {

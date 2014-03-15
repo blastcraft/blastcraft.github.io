@@ -2,5 +2,4 @@ name: blastcraft.net
 markdown: redcarpet
 pygments: true
 encoding: UTF-8
-paginate: 5
 excerpt_separator: <!--more-->

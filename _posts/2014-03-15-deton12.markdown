@@ -1,0 +1,22 @@
+---
+layout: post
+title:  "ОСНОВЫ ТЕОРИИ ГИДРОВЗРЫВАНИЯ ПРИ РАЗРУШЕНИИ ПОРОД"
+date:   2014-01-01 09:12:12
+categories: detonation
+---
+
+<strong>Шевцов Н.Р., Лабинский К.Н., Калякин С.А.</strong>
+
+Викладені основні положення розробленої теорії руйнування 
+гірничих  порід  гідровисадженням.  Надано  результати 
+експериментального  її  підтвердження.  Виділені  найбільш 
+ефективні напрямки підвищення ефективності вибухових робіт.
+
+In  the  article  you  can  find  the  main  theses  of  the  worked  out 
+theory of distruction of mining rocks by means o f hydroexplosion. The 
+results  of  its  experimental  confirmation  was  giving  here.  The  most 
+effective  ways  of  increasing  the  efficiency  of  explosive  works  was 
+underline in that work.
+<p align="right">
+Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton12.pdf)
+</p>

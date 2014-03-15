@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "NEW TECHNICAL SOLUTIONS IN CONDUCTING MINING EXCAVATIONS"
+date:   2014-01-01 12:22:12
+categories: detonation
+---
+
+<strong>Shevtsov V., Shkumatov A., Labinskiy K., Moroz O., Proskurenko D.</strong>
+
+In the article you can find the research of distribution of explosion gases. 
+The status of researches of the hydrotamping was examined.   The new function mode was 
+suggested. The laboratory researches of the hydrotamping was discribed. The laboratory 
+researches of dispersion of  detonating products were showed.  The construction of 
+bush in a blast-hole changing the direction of movement of gases was 
+described here. The new construction of the blast-hole charge was suggested. The 
+most effective ways of increasing the efficiency of  explosive works was underlined 
+in that work.  The results of using of bushes and hydrotamping in real conditions 
+was described here.
+<p align="right">
+Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton13.pdf)
+</p>

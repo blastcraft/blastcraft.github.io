@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "О МЕХАНИЗМЕ ВЗАИМОДЕЙСТВИЯ ПРОДУКТОВ ДЕТОНАЦИИ ВВ С ГИДРОЗАБОЙКОЙ"
+date:   2014-01-01 08:10:12
+categories: detonation
+---
+
+<strong>Калякин С.А., Шевцов Н.Р., Лабинский К.Н.</strong>
+
+Проаналізовано  значний  обсяг  аналітичних  та  експериментальних  даних. 
+Вперше  встановлений  механізм  та  ступінь  підвищення ефективності руйнування 
+гірничих порід при гидровисадженні.  Визначені  напрямки  розробки  раціональної 
+конструкції заряда.
+
+The  analytic  and  experimental  data  level  was  analyzed  in  this 
+article. The mechanism and the degree of rising of effectiveness of hydroexplosive
+works  were  worked  out.  The  ways  of  rational  development of blast-hole charge’s 
+construction were determined here.
+<p align="right">
+Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton10.pdf)
+</p>

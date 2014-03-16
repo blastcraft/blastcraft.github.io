@@ -12,5 +12,5 @@ categories: safety
 предельного заряда ВВ в зависимости от его энергии детонации и плотности патронирования. Данные зависимости 
 могут быть использованы при разработке новых более безопасных и эффективных ВВ для угольных шахт.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/safety2.pdf)
+<a href="http://www.blastcraft.net/files/articles/safety2.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

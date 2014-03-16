@@ -12,5 +12,5 @@ categories: detonation
 режим детонации аммонита в зарядах от их диаметра, плотности патронирования и критического диаметра 
 детонации ВВ.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton1.pdf)
+<a href="http://www.blastcraft.net/files/articles/deton1.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

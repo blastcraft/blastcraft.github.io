@@ -11,5 +11,5 @@ categories: recepies
 способность и работоспособность.  Модернизация тротилсодержащих граммотолов позволила разработать и 
 внедрить в производство новый граммотол 1-1.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/recepies2.pdf)
+<a href="http://www.blastcraft.net/files/articles/recepies2.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

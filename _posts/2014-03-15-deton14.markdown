@@ -12,5 +12,5 @@ categories: detonation
 В работе установлено влияние конструкции гидрозабойки на эффективность действия взрява. Обоснованы
 эффективные параметры гидрозабойки в зависимости от используемого ВВ.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton14.pdf)
+<a href="http://www.blastcraft.net/files/articles/deton14.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

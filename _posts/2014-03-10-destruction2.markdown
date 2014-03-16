@@ -12,5 +12,5 @@ categories: destruction
 полноту  детонации  при  взрыве,  и  факторами  характеризующими 
 прочностные свойства горных пород.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/destruction2.pdf)
+<a href="http://www.blastcraft.net/files/articles/destruction2.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

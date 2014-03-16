@@ -14,5 +14,5 @@ categories: destruction
 принципы построения схемы расположения шпуров при короткозамедленном взрывании 
 с учетом вновь образуемой открытой поверхности.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/destruction3.pdf)
+<a href="http://www.blastcraft.net/files/articles/destruction3.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

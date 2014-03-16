@@ -14,5 +14,5 @@ categories: safety
 взрывоопасной смеси в горных выработках, и ее взрывы поставили под сомнение целесообразность 
 подземной добычи угля на выбросоопасных пластах ценой жизни шахтеров
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/safety5.pdf)
+<a href="http://www.blastcraft.net/files/articles/safety5.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

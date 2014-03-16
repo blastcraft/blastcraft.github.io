@@ -17,5 +17,5 @@ article. The mechanism and the degree of rising of effectiveness of hydroexplosi
 works  were  worked  out.  The  ways  of  rational  development of blast-hole charge’s 
 construction were determined here.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton10.pdf)
+<a href="http://www.blastcraft.net/files/articles/deton10.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

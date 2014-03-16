@@ -12,5 +12,5 @@ categories: destruction
 и горных пород. Обосновано среднее расстояние между шпурами с учетом максимального радиуса разрушения 
 горной породы под действием ударной волны, образованной взрывом шпурового заряда ВВ.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/destruction5.pdf)
+<a href="http://www.blastcraft.net/files/articles/destruction5.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

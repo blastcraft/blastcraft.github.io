@@ -12,5 +12,5 @@ categories: safety
 и зарядов в канальной мортире без забойки. Установлены размеры горящих частиц ВВ, которые могут оказать 
 негативное влияние на антигризутность.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/safety3.pdf)
+<a href="http://www.blastcraft.net/files/articles/safety3.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

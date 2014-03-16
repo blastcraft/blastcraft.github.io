@@ -17,5 +17,5 @@ categories: detonation
 объем  экспериментальных  работ.  Данная  модель  может  быть  использована 
 при разработке ЭВВ предохранительного типа для угольных шахт.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton9.pdf)
+<a href="http://www.blastcraft.net/files/articles/deton9.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

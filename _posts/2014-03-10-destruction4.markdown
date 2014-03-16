@@ -20,5 +20,5 @@ categories: destruction
 конструкция  удлиненного  рассредоточенного  заряда  взрывчатого  вещества.  Определено  направление 
 дальнейших исследований.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/destruction4.pdf)
+<a href="http://www.blastcraft.net/files/articles/destruction4.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

@@ -12,5 +12,5 @@ detonation of component blast-hole charges are give in this article. The limit n
 of joints between explosive charges is established that with 99% probability results in 
 the failure of detonation.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton8.pdf)
+<a href="http://www.blastcraft.net/files/articles/deton8.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

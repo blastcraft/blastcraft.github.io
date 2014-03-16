@@ -15,5 +15,5 @@ categories: safety
 в  местах  их  скопления.  В  результате  уточнен  механизм  самовозгорания  угля  и 
 спонтанных взрывов пылегазовой среды в угольных шахтах.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/safety7.pdf)
+<a href="http://www.blastcraft.net/files/articles/safety7.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

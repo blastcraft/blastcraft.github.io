@@ -13,5 +13,5 @@ categories: recepies
 герметичности патронов, а разработка новых составов должна исключать наличие в них токсичных для человека 
 сенсибилизаторов и базироваться на использовании предохранительных эмульсионных ВВ.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/recepies1.pdf)
+<a href="http://www.blastcraft.net/files/articles/recepies1.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

@@ -17,5 +17,5 @@ categories: detonation
 условия инициирования,  необходимые для возбуждения  максимальной  скорости 
 детонации у простейших ВВ типа ANFO промежуточным детонатором.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton6.pdf)
+<a href="http://www.blastcraft.net/files/articles/deton6.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

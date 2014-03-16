@@ -18,5 +18,5 @@ categories: detonation
 в  результате  уплотнения  и  спекания  ВВ  в  зависимости  от  скорости  детонации 
 ВВ и его коэффициента заряжания.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton5.pdf)
+<a href="http://www.blastcraft.net/files/articles/deton5.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

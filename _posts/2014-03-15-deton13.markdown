@@ -17,5 +17,5 @@ most effective ways of increasing the efficiency of  explosive works was underli
 in that work.  The results of using of bushes and hydrotamping in real conditions 
 was described here.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton13.pdf)
+<a href="http://www.blastcraft.net/files/articles/deton13.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

@@ -11,5 +11,5 @@ categories: safety
 угольных пластах при самопроизвольном преобразовании угольных макромолекул под действием запредельных 
 деформаций и генерации взрывоопасных углеводородов из угля.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/safety4.pdf)
+<a href="http://www.blastcraft.net/files/articles/safety4.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

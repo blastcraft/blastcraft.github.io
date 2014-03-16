@@ -16,5 +16,5 @@ categories: detonation
 эмульсионные  ВВ,  в  зависимости  от  диаметра  патрона  ВВ,  свойств  горного 
 массива и откольной прочности пород. 
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton7.pdf)
+<a href="http://www.blastcraft.net/files/articles/deton7.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

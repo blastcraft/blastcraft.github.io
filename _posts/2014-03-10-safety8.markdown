@@ -14,5 +14,5 @@ categories: safety
 угля наночастицы угольной пыли пирофорны и могут самовозгораться как местах  скопления  пыли, так и виде 
 пылегазовых аэрозолей. В результате уточнен механизм самовозгорания угля и спонтанных взрывов пылегазовой среды - аэрозолей в угольных шахтах.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/safety8.pdf)
+<a href="http://www.blastcraft.net/files/articles/safety8.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

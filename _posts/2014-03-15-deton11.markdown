@@ -12,5 +12,5 @@ categories: detonation
 анализ существующих теоретических и лабораторных исследований. Разработана
 методика расчета параметров донной гидрозабойки.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton11.pdf)
+<a href="http://www.blastcraft.net/files/articles/deton11.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

@@ -12,5 +12,5 @@ categories: destruction
 зарядов из промышленных и бризантных ВВ. Получена эмпирическая зависимость, позволяющая по параметрам детонации ВВ и 
 параметрам акустической жесткости горных пород определять их максимальный радиус разрушения сосредоточенным зарядом ВВ.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/destruction1.pdf)
+<a href="http://www.blastcraft.net/files/articles/destruction1.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

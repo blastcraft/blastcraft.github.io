@@ -13,5 +13,5 @@ categories: detonation
 влияние стыка между патронами ВВ на скорость распространения детонационной волны в составном заряде, 
 приводящее к снижению средней скорости детонации и ее устойчивости по длине заряда.
 <p align="right">
-Скачать: [<img src="/img/pdf.gif">]({{ site.url }}/files/articles/deton4.pdf)
+<a href="http://www.blastcraft.net/files/articles/deton4.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

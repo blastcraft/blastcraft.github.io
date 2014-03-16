@@ -8,6 +8,10 @@ categories: aref
 ОБГРУНТУВАННЯ ПАРАМЕТРІВ ШПУРОВИХ ЗАРЯДІВ, КОТРІ ЗАБЕЗПЕСУЮТЬ ПІДВИЩЕННЯ ШВИДКОСТІ СПОРУДЖЕННЯ ГІРНИЧИХ ВИРОБОК
 
 ОБОСНОВАНИЕ ПАРАМЕТРОВ ШПУРОВЫХ ЗАРЯДОВ, ОБЕСПЕЧИВАЮЩИХ ПОВЫШЕНИЕ СКОРОСТИ СООРУЖЕНИЯ ГОРНЫХ ВЫРАБОТОК
+
+Спеціальність 05.15.04 - “Шахтне і підземне будівництво”
+
+Автореферат дисертації на здобуття наукового ступеня кандидата технічних наук
 <p align="right">
 Укр:<a href="http://www.blastcraft.net/files/arefs/labinskiykn_ukr.pdf" target="_blank"><img src="/img/pdf.gif"></a>,
 Рус:<a href="http://www.blastcraft.net/files/arefs/labinskiykn_rus.pdf" target="_blank"><img src="/img/pdf.gif"></a>

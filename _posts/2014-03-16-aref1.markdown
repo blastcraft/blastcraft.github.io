@@ -10,5 +10,5 @@ categories: aref
 ОБОСНОВАНИЕ ПАРАМЕТРОВ ШПУРОВЫХ ЗАРЯДОВ, ОБЕСПЕЧИВАЮЩИХ ПОВЫШЕНИЕ СКОРОСТИ СООРУЖЕНИЯ ГОРНЫХ ВЫРАБОТОК
 <p align="right">
 Укр:<a href="http://www.blastcraft.net/files/arefs/labinskiykn_ukr.pdf" target="_blank"><img src="/img/pdf.gif"></a>,
-Рус:<a href="http://www.blastcraft.net/files/arefs/labinskiykn_ukr.pdf" target="_blank"><img src="/img/pdf.gif"></a>
+Рус:<a href="http://www.blastcraft.net/files/arefs/labinskiykn_rus.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

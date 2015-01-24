@@ -23,5 +23,6 @@ DC-тригерів підключені до шини опорних імпул
 елемент І, вихід переповнення Р+Т-розрядного лічильника часу і  Q-виходи буферного регістра 
 доступні для підключення до мікроЕОМ. 
 <p align="right">
-<a href="http://www.blastcraft.net/files/patents/86809.pdf" target="_blank"><img src="/img/pdf.gif"></a>
+КМ: <a href="http://www.blastcraft.net/files/patents/86809.pdf" target="_blank"><img src="/img/pdf.gif"></a>,
+Винахід: <a href="http://www.blastcraft.net/files/patents/105468.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

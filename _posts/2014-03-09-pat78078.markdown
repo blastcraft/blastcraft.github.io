@@ -30,5 +30,5 @@ categories: patent
 цьому щільність набивки з боку патрона-бойовика
 більше  щільності  вибухової  речовини,  а  з  проти-лежного боку - менше щільності вибухової речовини.
 <p align="right">
-<a href="http://www.blastcraft.net/files/patents/78078.pdf" target="_blank"><img src="/img/pdf.gif"></a>
+Винахід: <a href="http://www.blastcraft.net/files/patents/78078.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>

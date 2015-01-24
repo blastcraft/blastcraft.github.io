@@ -13,6 +13,6 @@ categories: aref
 
 Автореферат дисертації на здобуття наукового ступеня кандидата технічних наук
 <p align="right">
-Укр:<a href="http://www.blastcraft.net/files/arefs/labinskiykn_ukr.pdf" target="_blank"><img src="/img/pdf.gif"></a>,
-Рус:<a href="http://www.blastcraft.net/files/arefs/labinskiykn_rus.pdf" target="_blank"><img src="/img/pdf.gif"></a>
+Укр:<a href="http://www.blastcraft.net/files/arefs/labinskiykn_ktn_ukr.pdf" target="_blank"><img src="/img/pdf.gif"></a>,
+Рус:<a href="http://www.blastcraft.net/files/arefs/labinskiykn_ktn_rus.pdf" target="_blank"><img src="/img/pdf.gif"></a>
 </p>
